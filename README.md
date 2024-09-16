@@ -6,3 +6,7 @@
 - art direction (model style, palette, lighting and shading, effects, animation)
 - systems (core mechanics and game play loop)
 - inspiration alongside both art direction and systems (list of games and the features we are inspired by)
+
+| 1 | 2 |
+| --- | --- |
+| a | b|

@@ -7,6 +7,5 @@
 - systems (core mechanics and game play loop)
 - inspiration alongside both art direction and systems (list of games and the features we are inspired by)
 
-| 1 | 2 |
-| --- | --- |
-| a | b |
+#  Resources
+- [Game Planning](https://www.nuclino.com/solutions/game-planner)
